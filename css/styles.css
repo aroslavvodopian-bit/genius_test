@@ -163,11 +163,11 @@ ul {
   color: var(--bakery-landing-1-c4);
 }
 .link-2 {
-  font-style: normal;
+  text-decoration: none;
   color: var(--bakery-landing-1-background);
 }
 .link-2:hover {
-  font-style: normal;
+  text-decoration: none;
   color: var(--bakery-landing-1-c2);
 }
 .address-copyright {
